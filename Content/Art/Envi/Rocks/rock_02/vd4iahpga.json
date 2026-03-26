@@ -1,0 +1,2056 @@
+{
+  "pack": {
+    "_id": "nordic-coastal-cliffs",
+    "name": "Nordic Coastal Cliffs"
+  },
+  "semanticTags": {
+    "name": "Nordic Beach Rock Formation",
+    "asset_type": "3D asset",
+    "contains": [
+      "rock",
+      "lichen",
+      "Stones",
+      "pebbles",
+      "boulders"
+    ],
+    "theme": [
+      "seaside",
+      "outdoors",
+      "mountains",
+      "beaches",
+      "shores",
+      "coastlines",
+      "shorelines",
+      "coastal",
+      "sea",
+      "ocean",
+      "cliffs",
+      "ground",
+      "hovs-hallar"
+    ],
+    "descriptive": [
+      "weathered",
+      "eroded",
+      "rough",
+      "lichened",
+      "cracked",
+      "layered"
+    ],
+    "environment": [
+      "ocean biome"
+    ],
+    "architectural_style": {},
+    "state": [
+      "old"
+    ],
+    "country": "Sweden",
+    "region": "Europe",
+    "color": [
+      "Brown",
+      "Gray"
+    ],
+    "3d_mesh": "Open",
+    "locations": {
+      "Europe": {
+        "Sweden": {}
+      }
+    },
+    "maxSize": 7.64,
+    "minSize": 1.12,
+    "subject_matter": "nature",
+    "interior_exterior": [
+      "exterior"
+    ],
+    "industry": [
+      "games",
+      "archviz",
+      "VFX"
+    ],
+    "resolution": 8192
+  },
+  "name": "Nordic Beach Rock Formation",
+  "tags": [
+    "brown",
+    "gray",
+    "seaside",
+    "outdoors",
+    "mountains",
+    "beaches",
+    "shores",
+    "coastlines",
+    "shorelines",
+    "coastal",
+    "sea",
+    "ocean",
+    "cliffs",
+    "hovs hallar",
+    "ground",
+    "rock",
+    "moss",
+    "lichen",
+    "stones",
+    "grit",
+    "pebbles",
+    "weathered",
+    "eroded",
+    "rough",
+    "lichened"
+  ],
+  "brushes": [],
+  "previews": {
+    "images": [
+      {
+        "contentLength": 628874,
+        "resolution": "859x400",
+        "uri": "vd4iahpga_Thumb_HighPoly.png",
+        "tags": [
+          "thumb",
+          "highpoly"
+        ]
+      },
+      {
+        "contentLength": 2431537,
+        "resolution": "1718x800",
+        "uri": "vd4iahpga_Thumb_HighPoly_Retina.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 1422,
+        "resolution": "52x24",
+        "uri": "sAAAAddFJOUwCUctAURv39CuUuKCvGz8SdTJes0Mz1esWg0Ovk7DuXPAAAAtBJREFUOMuNlNl62zYQhbWRlOTI+5Y02AFiIQFwB0lJfv/HCuy6TdssNS5IXPD/zpw5w1ks/j6b+/v7m9XnPw6fFtvFR89mHSoN5rn6+vzl9u55f/HpI9RSCAi07SvZBx9UsF+uDtc3v0U3nyVCDtFuqipuDTKs6WcdWHr9C2x/9Xy1Nk2j527sLK86y7RBujNUyoaf7m5+RLZ3QTnl5orpcTrNmvGgp1bT0U5jLduepy/3P6jd8rP0CtW00whxXgU9V3bqpGTWtoqUofXhLvmPmUffeyQ75dL01NWMV7PumK2YkVPf+k4RquQ8Xf8rhwuKUKNLiEbDTqljJ974hvVt040uIE+lghiWiB2+O9veHs6V1t4VOQCgHKk58Z7z0LDGtVVrXJBtAwU4Fmd7/ReUhJZ1ozHSuDwf6DhCIk00c2Kz9KzqmR+D7aVBNLTtxTu0Js35BUE3t0ocMRQlhYgiKjnXLlQ9bxwtnel417QNeVz9aWydZariRHnOpYBKkhrSkcrpxJmDAjEWDAL56HxvOaP16l0pI0VJimJwE8lxoSQQ+VBimL6k5w7J4HzlOfM+drV/sebpDSqyLCtAjuuSkPqY57FTUER745SmljUKopmfzlb6s7Vnfk6fku0i2ZEsBkgFojjH+IjLsgSiRHVdUqM7b3tjpsn2QbKesy4mMR1iTMuoBAuc58fYdIxJjY8DRSNCxtBcQKSk1qytOLdN7eLA1V/f0l1lEEAgQE0pEBQcjwJQRApCCiHwa8EwFjEMqhZFDLmd3qd8eXn5sNvtigLi+Ipf1JTE7gyRLusS4FxQmr/ekWrb2++Tsd1uNvsk2ccnEAOMCAQg1p1l9E1N5YLQkqCr5Oe/V7J8iKIFHACEQ5SDAA8CgRLRx/XqN/tjk6yWl3EYIxUFcyyUEmT9dPH/S2O/Wu5AlIvtwNl6ufroktoky0uBdw/L1T9EvgFs5XzvRWFDbAAAAABJRU5ErkJggg==",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "tiny"
+        ]
+      },
+      {
+        "contentLength": 118056,
+        "resolution": "859x400",
+        "uri": "vd4iahpga_Thumb_HighPoly_thumb.jpg",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 450433,
+        "resolution": "1718x800",
+        "uri": "vd4iahpga_Thumb_HighPoly_Retina_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 450244,
+        "resolution": "1718x800",
+        "uri": "vd4iahpga_Thumb_HighPoly_Retina_thumb_retina.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 346335,
+        "resolution": "1546x720",
+        "uri": "vd4iahpga_Thumb_HighPoly_Retina_sp.jpg",
+        "tags": [
+          "jpeg",
+          "sidepanel"
+        ]
+      }
+    ],
+    "relativeSize": "2x1"
+  },
+  "environment": {
+    "biome": "ocean biome",
+    "region": "Europe"
+  },
+  "json": {
+    "contentLength": 40438,
+    "uri": "vd4iahpga.json"
+  },
+  "points": 4,
+  "meta": [
+    {
+      "key": "assembly",
+      "name": "Assembly",
+      "value": "true"
+    },
+    {
+      "key": "small3dasset",
+      "name": "Small3dAsset",
+      "value": "false"
+    },
+    {
+      "key": "color",
+      "name": "Color",
+      "value": "Brown"
+    },
+    {
+      "key": "points",
+      "name": "Points",
+      "value": 4
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "0 px/m"
+    },
+    {
+      "key": "splitSubmeshes",
+      "name": "Split Submeshes",
+      "value": true
+    },
+    {
+      "key": "isScaleFixed",
+      "name": "Is scale fixed",
+      "value": "true"
+    },
+    {
+      "value": "7.64m",
+      "name": "Length",
+      "key": "length"
+    },
+    {
+      "value": "4.71m",
+      "name": "Width",
+      "key": "width"
+    },
+    {
+      "value": "1.12m",
+      "name": "Height",
+      "key": "height"
+    }
+  ],
+  "categories": [
+    "3d",
+    "Nature",
+    "Rock"
+  ],
+  "components": [
+    {
+      "minIntensity": 37,
+      "name": "Specular",
+      "colorSpace": "sRGB",
+      "maxIntensity": 55,
+      "type": "specular",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 227900701,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_8K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 31118445,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_8K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 63037357,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_4K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 8220640,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_4K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 15309252,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_2K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1859207,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_2K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3648386,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_1K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 424335,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_1K_Specular.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#313131"
+    },
+    {
+      "minIntensity": 68,
+      "name": "Normal",
+      "colorSpace": "Linear",
+      "maxIntensity": 212,
+      "type": "normal",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 183124502,
+                  "uri": "vd4iahpga_8K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 17595
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 90530371,
+                  "uri": "vd4iahpga_8K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 17595
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 202667710,
+                  "uri": "vd4iahpga_8K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 9325
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 77732103,
+                  "uri": "vd4iahpga_8K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 9325
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 202923715,
+                  "uri": "vd4iahpga_8K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 5221
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 77042515,
+                  "uri": "vd4iahpga_8K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 5221
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 202790032,
+                  "uri": "vd4iahpga_8K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 2661
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 75979170,
+                  "uri": "vd4iahpga_8K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 2661
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 202330159,
+                  "uri": "vd4iahpga_8K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 74703361,
+                  "uri": "vd4iahpga_8K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 199974871,
+                  "uri": "vd4iahpga_8K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 750
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 72870971,
+                  "uri": "vd4iahpga_8K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 750
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 57305336,
+                  "uri": "vd4iahpga_4K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 17595
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 26436511,
+                  "uri": "vd4iahpga_4K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 17595
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 56075793,
+                  "uri": "vd4iahpga_4K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 9325
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 22905951,
+                  "uri": "vd4iahpga_4K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 9325
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 56154254,
+                  "uri": "vd4iahpga_4K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 5221
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 22721697,
+                  "uri": "vd4iahpga_4K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 5221
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 56154298,
+                  "uri": "vd4iahpga_4K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 2661
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 22438878,
+                  "uri": "vd4iahpga_4K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 2661
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 56075316,
+                  "uri": "vd4iahpga_4K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 22076689,
+                  "uri": "vd4iahpga_4K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 55511960,
+                  "uri": "vd4iahpga_4K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 750
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 21532725,
+                  "uri": "vd4iahpga_4K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 750
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 15515648,
+                  "uri": "vd4iahpga_2K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 17595
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 7388343,
+                  "uri": "vd4iahpga_2K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 17595
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 14994819,
+                  "uri": "vd4iahpga_2K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 9325
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6401822,
+                  "uri": "vd4iahpga_2K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 9325
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 15021131,
+                  "uri": "vd4iahpga_2K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 5221
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6355626,
+                  "uri": "vd4iahpga_2K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 5221
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 15033125,
+                  "uri": "vd4iahpga_2K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 2661
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6283108,
+                  "uri": "vd4iahpga_2K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 2661
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 15023628,
+                  "uri": "vd4iahpga_2K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6186375,
+                  "uri": "vd4iahpga_2K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 14898180,
+                  "uri": "vd4iahpga_2K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 750
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 6038554,
+                  "uri": "vd4iahpga_2K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 750
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 4149548,
+                  "uri": "vd4iahpga_1K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 17595
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 2057335,
+                  "uri": "vd4iahpga_1K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 17595
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 3999101,
+                  "uri": "vd4iahpga_1K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 9325
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1812860,
+                  "uri": "vd4iahpga_1K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 9325
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 4007374,
+                  "uri": "vd4iahpga_1K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 5221
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1805085,
+                  "uri": "vd4iahpga_1K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 5221
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 4012224,
+                  "uri": "vd4iahpga_1K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 2661
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1788225,
+                  "uri": "vd4iahpga_1K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 2661
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 4015936,
+                  "uri": "vd4iahpga_1K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1766458,
+                  "uri": "vd4iahpga_1K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 3988117,
+                  "uri": "vd4iahpga_1K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 750
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1728508,
+                  "uri": "vd4iahpga_1K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 750
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8183EB"
+    },
+    {
+      "minIntensity": 96,
+      "name": "Bump",
+      "colorSpace": "Linear",
+      "maxIntensity": 186,
+      "type": "bump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 198843456,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_8K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 17209441,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_8K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 55010168,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_4K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5955661,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_4K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 15344304,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_2K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2022042,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_2K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4185269,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_1K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 681875,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_1K_Bump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8283F4"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Gloss",
+      "colorSpace": "Linear",
+      "maxIntensity": 41,
+      "type": "gloss",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 164066890,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_8K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 20575434,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_8K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 57325483,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_4K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5745368,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_4K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 15555719,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_2K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1550356,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_2K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4168251,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_1K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 436730,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_1K_Gloss.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#202020"
+    },
+    {
+      "minIntensity": 173,
+      "name": "Displacement",
+      "colorSpace": "Linear",
+      "maxIntensity": 227,
+      "type": "displacement",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 174754791,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_8K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 8840120,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_8K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 48676903,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_4K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2697383,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_4K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 13620143,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_2K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 881978,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_2K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3769129,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_1K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 329940,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_1K_Displacement.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#C8C8C8"
+    },
+    {
+      "minIntensity": 213,
+      "name": "Roughness",
+      "colorSpace": "Linear",
+      "maxIntensity": 255,
+      "type": "roughness",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 132475296,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_8K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 19836112,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_8K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 52207141,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_4K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5539314,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_4K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14216313,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_2K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1496423,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_2K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3837967,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_1K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 422032,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_1K_Roughness.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#E0E0E0"
+    },
+    {
+      "minIntensity": 186,
+      "name": "Cavity",
+      "colorSpace": "sRGB",
+      "maxIntensity": 255,
+      "type": "cavity",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 199401589,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_8K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 47965513,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_8K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 57250153,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_4K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 12364350,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_4K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 15383291,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_2K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2960885,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_2K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4094607,
+                  "bitDepth": 32,
+                  "uri": "vd4iahpga_1K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 721134,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_1K_Cavity.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#EDEDED"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Fuzz",
+      "colorSpace": "sRGB",
+      "maxIntensity": 255,
+      "type": "fuzz",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 21383926,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_8K_Fuzz.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2018514,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_8K_Fuzz.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 22009787,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_4K_Fuzz.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 750688,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_4K_Fuzz.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 7807393,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_2K_Fuzz.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 298260,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_2K_Fuzz.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 2724483,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_1K_Fuzz.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 133834,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_1K_Fuzz.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#030303"
+    },
+    {
+      "minIntensity": 96,
+      "name": "Normalbump",
+      "colorSpace": "Linear",
+      "maxIntensity": 186,
+      "type": "normalbump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 196662374,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_8K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 78256375,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_8K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 54369203,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_4K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 22814426,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_4K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14444596,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_2K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 6232717,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_2K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3761933,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_1K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1655801,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_1K_NormalBump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8283F4"
+    },
+    {
+      "minIntensity": 38,
+      "name": "Albedo",
+      "colorSpace": "sRGB",
+      "maxIntensity": 144,
+      "type": "albedo",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 230069062,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_8K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 50428867,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_8K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 217670332,
+                  "uri": "vd4iahpga_8K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 38979969,
+                  "uri": "vd4iahpga_8K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 215978448,
+                  "uri": "vd4iahpga_8K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 750
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 38530463,
+                  "uri": "vd4iahpga_8K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 750
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 63269748,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_4K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 15617807,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_4K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 60760531,
+                  "uri": "vd4iahpga_4K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 13820114,
+                  "uri": "vd4iahpga_4K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 60313511,
+                  "uri": "vd4iahpga_4K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 750
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 13587681,
+                  "uri": "vd4iahpga_4K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 750
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 16658578,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_2K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4414549,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_2K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 16248404,
+                  "uri": "vd4iahpga_2K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4110888,
+                  "uri": "vd4iahpga_2K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 16148063,
+                  "uri": "vd4iahpga_2K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 750
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4038079,
+                  "uri": "vd4iahpga_2K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 750
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4366102,
+                  "bitDepth": 16,
+                  "uri": "vd4iahpga_1K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1236218,
+                  "bitDepth": 8,
+                  "uri": "vd4iahpga_1K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 4291246,
+                  "uri": "vd4iahpga_1K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1170717,
+                  "uri": "vd4iahpga_1K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 1399
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 4270513,
+                  "uri": "vd4iahpga_1K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 750
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1152389,
+                  "uri": "vd4iahpga_1K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 750
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#6D5845"
+    }
+  ],
+  "references": [],
+  "referencePreviews": {
+    "models": [
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 1798674,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 510448,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 937217,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 959948,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 289712,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 502553,
+        "type": "lod",
+        "uri": ""
+      }
+    ],
+    "maps": [
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 424335,
+        "type": "specular",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 2057335,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1812860,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 681875,
+        "type": "bump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 436730,
+        "type": "gloss",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 329940,
+        "type": "displacement",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 422032,
+        "type": "roughness",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 721134,
+        "type": "cavity",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 133834,
+        "type": "fuzz",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1655801,
+        "type": "normalbump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1236218,
+        "type": "albedo",
+        "uri": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "key": "size",
+      "value": "large"
+    },
+    {
+      "key": "mesh type",
+      "value": "Open"
+    }
+  ],
+  "averageColor": "#6D5845",
+  "meshes": [
+    {
+      "type": "original",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 221883440,
+          "uri": "vd4iahpga_High.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 63851456,
+          "uri": "vd4iahpga_High.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 82826293,
+          "uri": "vd4iahpga_High.abc"
+        }
+      ]
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 1798674,
+          "uri": "vd4iahpga_LOD0.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 510448,
+          "uri": "vd4iahpga_LOD0.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 937217,
+          "uri": "vd4iahpga_LOD0.abc"
+        }
+      ],
+      "tris": 17595
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 959948,
+          "uri": "vd4iahpga_LOD1.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 289712,
+          "uri": "vd4iahpga_LOD1.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 502553,
+          "uri": "vd4iahpga_LOD1.abc"
+        }
+      ],
+      "tris": 9325
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 539594,
+          "uri": "vd4iahpga_LOD2.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 173504,
+          "uri": "vd4iahpga_LOD2.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 285361,
+          "uri": "vd4iahpga_LOD2.abc"
+        }
+      ],
+      "tris": 5221
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 274730,
+          "uri": "vd4iahpga_LOD3.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 99088,
+          "uri": "vd4iahpga_LOD3.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 149129,
+          "uri": "vd4iahpga_LOD3.abc"
+        }
+      ],
+      "tris": 2661
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 145168,
+          "uri": "vd4iahpga_LOD4.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 61456,
+          "uri": "vd4iahpga_LOD4.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 81385,
+          "uri": "vd4iahpga_LOD4.abc"
+        }
+      ],
+      "tris": 1399
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 80213,
+          "uri": "vd4iahpga_LOD5.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 41552,
+          "uri": "vd4iahpga_LOD5.fbx"
+        },
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 46037,
+          "uri": "vd4iahpga_LOD5.abc"
+        }
+      ],
+      "tris": 750
+    },
+    {
+      "type": "zbrush",
+      "uris": [
+        {
+          "mimeType": "application/x-ztl",
+          "contentLength": 703724858,
+          "uri": "vd4iahpga_ZTool.ztl"
+        }
+      ]
+    }
+  ],
+  "assetCategories": {
+    "3D asset": {
+      "nature": {
+        "rock": {
+          "beach": {}
+        }
+      }
+    }
+  },
+  "revision": 0,
+  "uasset": [
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/S_Nordic_Beach_Rock_Formation_vd4iahpga_high_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/MI_Nordic_Beach_Rock_Formation_vd4iahpga_8K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/T_NordicBeachRockFormation_vd4iahpga_8K_DpRF.uasset",
+      "sub-type": "drf"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/T_Nordic_Beach_Rock_Formation_vd4iahpga_8K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/T_Nordic_Beach_Rock_Formation_vd4iahpga_8K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "json",
+      "uri": "UAsset/Tier0/vd4iahpga_0.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/S_Nordic_Beach_Rock_Formation_vd4iahpga_lod0_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/MI_Nordic_Beach_Rock_Formation_vd4iahpga_4K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/T_NordicBeachRockFormation_vd4iahpga_4K_DpRF.uasset",
+      "sub-type": "drf"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/T_Nordic_Beach_Rock_Formation_vd4iahpga_4K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/T_Nordic_Beach_Rock_Formation_vd4iahpga_4K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "json",
+      "uri": "UAsset/Tier1/vd4iahpga_1.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/S_Nordic_Beach_Rock_Formation_vd4iahpga_lod3_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/MI_Nordic_Beach_Rock_Formation_vd4iahpga_2K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/T_NordicBeachRockFormation_vd4iahpga_2K_DpRF.uasset",
+      "sub-type": "drf"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/T_Nordic_Beach_Rock_Formation_vd4iahpga_2K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/T_Nordic_Beach_Rock_Formation_vd4iahpga_2K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "json",
+      "uri": "UAsset/Tier2/vd4iahpga_2.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/S_Nordic_Beach_Rock_Formation_vd4iahpga_lod5_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/MI_Nordic_Beach_Rock_Formation_vd4iahpga_1K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/T_NordicBeachRockFormation_vd4iahpga_1K_DpRF.uasset",
+      "sub-type": "drf"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/T_Nordic_Beach_Rock_Formation_vd4iahpga_1K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/T_Nordic_Beach_Rock_Formation_vd4iahpga_1K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "json",
+      "uri": "UAsset/Tier3/vd4iahpga_3.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/S_Nordic_Beach_Rock_Formation_vd4iahpga_lod5_Var1.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/MI_Nordic_Beach_Rock_Formation_vd4iahpga_1K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/T_Nordic_Beach_Rock_Formation_vd4iahpga_1K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/T_Nordic_Beach_Rock_Formation_vd4iahpga_1K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "json",
+      "uri": "UAsset/Tier4/vd4iahpga_4.json"
+    }
+  ],
+  "comp_version": 1,
+  "revised": false,
+  "id": "vd4iahpga",
+  "physicalSize": "1x1"
+}
