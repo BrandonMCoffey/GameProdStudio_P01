@@ -1,0 +1,11 @@
+Model Information:
+* title:	BUSTO TAINO
+* source:	https://sketchfab.com/3d-models/busto-taino-7988b6f653834b738ab632e09f001796
+* author:	GEOVERTICE (https://sketchfab.com/GEOVERTICE)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BUSTO TAINO" (https://sketchfab.com/3d-models/busto-taino-7988b6f653834b738ab632e09f001796) by GEOVERTICE (https://sketchfab.com/GEOVERTICE) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
