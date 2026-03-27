@@ -1,0 +1,11 @@
+Model Information:
+* title:	Taíno Bottle Neck
+* source:	https://sketchfab.com/3d-models/taino-bottle-neck-851a70d9acf44fc4990912ef4fde81e6
+* author:	The Herring Run Archaeology Project (https://sketchfab.com/HRAP)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Taíno Bottle Neck" (https://sketchfab.com/3d-models/taino-bottle-neck-851a70d9acf44fc4990912ef4fde81e6) by The Herring Run Archaeology Project (https://sketchfab.com/HRAP) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

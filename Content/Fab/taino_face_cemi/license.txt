@@ -1,0 +1,11 @@
+Model Information:
+* title:	Taíno Face Cemí
+* source:	https://sketchfab.com/3d-models/taino-face-cemi-9276aebd57374ebb884eb024d2ed94b5
+* author:	Princeton University Art Museum (https://sketchfab.com/princetonuniversityartmuseum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Taíno Face Cemí" (https://sketchfab.com/3d-models/taino-face-cemi-9276aebd57374ebb884eb024d2ed94b5) by Princeton University Art Museum (https://sketchfab.com/princetonuniversityartmuseum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
